@@ -2551,35 +2551,6 @@
 		</div>
 </div>
 
-<!-- 
-设置填空题选项
-<div id="dwCommonInputMenuRoot"  >
-	<div class="dwCommonInputMenu">
-	<ul class="dwComEditMenuUl" >
-		<li><a href="javascript:;" class="SeniorEdit"><i class="menu_edit2_icon"></i>高级编辑</a></li>
-		<li><a href="javascript:;" class="reference_Set"><i class="menu_edit4_icon"></i>引用设置</a></li>
-	</ul>
-	<div class="dwComEditMenuBtn"></div>
-	</div>
-</div> -->
-
-<%-- 
-	逻辑题临时
-		<c:choose>
-			<c:when test="${empty en.questionLogics }">
-			<div class="quLogicData">
-				<div class="dwQuIcon"></div>
-				<div class="quLogicInfo">1</div>
-			</div>
-			</c:when>
-			<c:otherwise>
-			<div class="quLogicData" style="display: inline;">
-				<div class="dwQuIcon"></div>
-				<div class="quLogicInfo">1</div>
-			</div>
-			</c:otherwise>
-		</c:choose> 
-		--%>
 <script type="text/javascript">
 	<!-- 初始化属性 -->
 	//alert("${survey.surveyDetail.effectiveIp}");
@@ -2606,9 +2577,8 @@
 <div style="text-align: center;">
 <div class="dw_foot" style="padding-bottom: 30px;">
 	<div class="footer-copyright" style="color: gray;padding-top: 0px;font-size: 16px;">
-		Powered by <a href="http://www.dwsurvey.net" target="_blank" style="text-decoration: none;color: gray;">DWSurvey</a>&nbsp;&nbsp;&nbsp;
-		Copyright © 2012-2017
-		<a href="http://www.diaowen.net" target="_blank" style="text-decoration: none;color: rgb(53, 117, 136);">调问网</a>
+		Powered by <a href="http://www.dwsurvey.net" target="_blank" style="text-decoration: none;color: gray;">questionnaire</a>&nbsp;&nbsp;&nbsp;
+		Copyright © 2018-2019
 	</div>
 </div>
 </div>
