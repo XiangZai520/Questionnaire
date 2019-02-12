@@ -18,9 +18,9 @@ import com.key.dwsurvey.service.QuCheckboxManager;
 
 /**
  * 多选题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Service("quCheckboxManager")

@@ -15,7 +15,7 @@ import com.key.common.base.entity.IdEntity;
  * 问卷目录及问卷
  * @author keyuan
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Entity

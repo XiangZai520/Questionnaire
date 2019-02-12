@@ -4,9 +4,9 @@ import com.key.dwsurvey.entity.SurveyReqUrl;
 
 /**
  * 短链辅助
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface SurveyReqUrlManager {

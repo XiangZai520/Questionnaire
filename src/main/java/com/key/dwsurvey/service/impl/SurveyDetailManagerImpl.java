@@ -17,9 +17,9 @@ import com.key.dwsurvey.service.SurveyDetailManager;
 
 /**
  * 问卷详情
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Service

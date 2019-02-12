@@ -9,9 +9,9 @@ import com.key.dwsurvey.entity.DataCross;
 
 /**
  * 单选题 interface
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

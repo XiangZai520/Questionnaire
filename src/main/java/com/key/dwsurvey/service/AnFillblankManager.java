@@ -8,9 +8,9 @@ import org.hibernate.criterion.Criterion;
 
 /**
  * 填空题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface AnFillblankManager extends BaseService<AnFillblank, String>{

@@ -6,9 +6,9 @@ import com.key.dwsurvey.entity.Question;
 
 /**
  * 答卷数据 interface
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

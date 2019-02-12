@@ -13,10 +13,10 @@ import com.key.common.plugs.page.PropertyFilter;
 
 /**
  * 业务基类
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
- * http://www.dwsurvey.net
+ *
+ *  www.baidu.com
  */
 @Transactional
 public abstract class BaseServiceImpl<T extends IdEntity, ID extends Serializable>

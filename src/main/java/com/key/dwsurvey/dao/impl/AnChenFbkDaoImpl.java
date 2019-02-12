@@ -14,9 +14,9 @@ import com.key.dwsurvey.entity.QuChenRow;
 
 /**
  * 矩陈填空 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

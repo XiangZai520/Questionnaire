@@ -17,9 +17,9 @@ import com.key.dwsurvey.entity.QuCheckbox;
 
 /**
  * 多选 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

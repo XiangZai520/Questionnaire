@@ -8,9 +8,9 @@ import com.key.dwsurvey.dao.QuestionLogicDao;
 
 /**
  * 题逻辑 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

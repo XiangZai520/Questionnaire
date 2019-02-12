@@ -9,9 +9,9 @@ import com.key.dwsurvey.entity.Question;
 
 /**
  * 多选题业务
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

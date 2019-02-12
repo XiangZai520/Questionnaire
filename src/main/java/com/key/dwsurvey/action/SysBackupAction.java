@@ -15,9 +15,9 @@ import com.key.common.utils.web.Struts2Utils;
 
 /**
  * 系统备份 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

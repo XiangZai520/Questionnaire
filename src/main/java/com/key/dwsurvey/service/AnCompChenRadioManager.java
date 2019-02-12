@@ -7,9 +7,9 @@ import com.key.dwsurvey.entity.AnCompChenRadio;
 
 /**
  * 复合矩陈单选题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

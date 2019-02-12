@@ -8,9 +8,9 @@ import com.key.common.dao.BaseDaoImpl;
 
 /**
  * 复合矩陈单选 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

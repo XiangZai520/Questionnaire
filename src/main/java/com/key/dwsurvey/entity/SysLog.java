@@ -10,7 +10,7 @@ import java.util.Map;
  * 系统日志
  * @author keyuan
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public class SysLog extends IdEntity{

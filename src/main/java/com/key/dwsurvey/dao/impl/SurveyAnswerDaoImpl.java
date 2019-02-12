@@ -30,9 +30,9 @@ import com.key.dwsurvey.entity.SurveyStats;
 
 /**
  * 问卷回答 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

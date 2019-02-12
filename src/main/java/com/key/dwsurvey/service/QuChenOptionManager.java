@@ -7,9 +7,9 @@ import com.key.dwsurvey.entity.QuChenOption;
 
 /**
  * 矩陈题选项
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface QuChenOptionManager extends BaseService<QuChenOption, String>{

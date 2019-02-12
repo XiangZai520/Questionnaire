@@ -5,9 +5,9 @@ import com.key.common.dao.BaseDao;
 
 
 /**
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface UserDao extends BaseDao<User, String> {

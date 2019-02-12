@@ -10,9 +10,9 @@ import com.key.dwsurvey.entity.SurveyDirectory;
 
 /**
  * 统计报表
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface SurveyStatsManager extends BaseService<SurveyStats, String>{

@@ -19,9 +19,9 @@ import com.key.dwsurvey.entity.QuScore;
 
 /**
  * 评分题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Service

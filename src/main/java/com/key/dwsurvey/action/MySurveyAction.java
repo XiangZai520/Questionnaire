@@ -16,9 +16,9 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 我的问卷 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

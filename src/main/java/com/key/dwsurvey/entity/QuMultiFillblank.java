@@ -10,7 +10,7 @@ import com.key.common.base.entity.IdEntity;
 
 /**
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

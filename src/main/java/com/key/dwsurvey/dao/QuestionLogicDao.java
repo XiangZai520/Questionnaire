@@ -5,9 +5,9 @@ import com.key.dwsurvey.entity.QuestionLogic;
 
 /**
  * 题逻辑 interface
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

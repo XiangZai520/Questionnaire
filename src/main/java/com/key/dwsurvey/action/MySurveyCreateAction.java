@@ -12,9 +12,9 @@ import java.net.URLDecoder;
 
 /**
  * 创建问卷
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

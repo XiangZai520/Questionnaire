@@ -13,9 +13,9 @@ import com.key.dwsurvey.entity.SysLog;
 
 /**
  * 系统日志分析 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

@@ -10,9 +10,9 @@ import java.util.List;
 
 /**
  * 多选题数据 interface
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

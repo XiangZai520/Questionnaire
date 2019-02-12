@@ -8,9 +8,9 @@ import com.key.dwsurvey.entity.SurveyStyle;
 
 /**
  * 问卷样式 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

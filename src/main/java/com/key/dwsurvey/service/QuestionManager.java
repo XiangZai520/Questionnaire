@@ -8,9 +8,9 @@ import com.key.dwsurvey.entity.SurveyDirectory;
 
 /**
  * 题基础
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface QuestionManager extends BaseService<Question, String>{

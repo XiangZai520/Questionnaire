@@ -8,9 +8,9 @@ import com.key.dwsurvey.entity.SysDbBackup;
 
 /**
  * 系统备份 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

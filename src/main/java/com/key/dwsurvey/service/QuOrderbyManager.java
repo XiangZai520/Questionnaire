@@ -7,9 +7,9 @@ import com.key.dwsurvey.entity.QuOrderby;
 
 /**
  * 排序题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface QuOrderbyManager extends BaseService<QuOrderby, String>{

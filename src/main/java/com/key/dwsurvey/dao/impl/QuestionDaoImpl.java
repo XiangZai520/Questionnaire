@@ -26,9 +26,9 @@ import com.key.dwsurvey.entity.Question;
 
 /**
  * 题基础 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

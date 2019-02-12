@@ -7,7 +7,7 @@ import com.key.common.base.entity.IdEntity;
  * @author KeYuan
  * @date 2013下午10:35:52
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public class SmtpServer extends IdEntity{

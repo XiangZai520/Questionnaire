@@ -9,9 +9,9 @@ import com.key.dwsurvey.entity.QuMultiFillblank;
 
 /**
  * 多项填空题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface QuMultiFillblankManager  extends BaseService<QuMultiFillblank, String>{

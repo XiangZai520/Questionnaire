@@ -17,7 +17,7 @@ import com.key.common.QuType;
  * 
  * @author keyuan
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Entity

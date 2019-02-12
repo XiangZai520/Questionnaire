@@ -9,9 +9,9 @@ import com.key.dwsurvey.entity.QuRadio;
 
 /**
  * 单选题 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

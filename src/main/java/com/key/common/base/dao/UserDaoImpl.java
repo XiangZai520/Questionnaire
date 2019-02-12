@@ -6,9 +6,9 @@ import org.springframework.stereotype.Repository;
 
 
 /**
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Repository

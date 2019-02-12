@@ -15,9 +15,9 @@ import com.key.dwsurvey.service.SysEmailManager;
 
 /**
  * 系统邮件集成 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

@@ -13,7 +13,7 @@ import com.key.common.base.entity.IdEntity;
  * @author KeYuan
  * @date 2014下午9:23:21
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Entity

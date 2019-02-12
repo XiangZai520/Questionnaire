@@ -67,9 +67,9 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 问卷回答记录
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Service

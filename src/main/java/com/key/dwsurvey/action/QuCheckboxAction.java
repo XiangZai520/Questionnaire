@@ -23,9 +23,9 @@ import java.util.Map;
 
 /**
  * 单选题 action
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

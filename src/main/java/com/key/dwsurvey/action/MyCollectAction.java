@@ -13,10 +13,10 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 收集入口 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
- * http://www.dwsurvey.net
+ *
+ *  www.baidu.com
  *
  */
 @Namespace("/design")

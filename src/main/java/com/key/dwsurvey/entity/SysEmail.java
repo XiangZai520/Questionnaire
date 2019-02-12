@@ -10,7 +10,7 @@ import com.key.common.base.entity.IdEntity;
  * 系统邮件
  * @author keyuan
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Entity

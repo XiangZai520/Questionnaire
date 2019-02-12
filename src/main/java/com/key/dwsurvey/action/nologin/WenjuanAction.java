@@ -6,10 +6,10 @@ import org.apache.struts2.convention.annotation.*;
 
 /**
  * WenjuanAction
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
- * http://www.dwsurvey.net
+ *
+ *  www.baidu.com
  *
  */
 @Namespace("/")

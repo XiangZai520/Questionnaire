@@ -9,9 +9,9 @@ import com.key.dwsurvey.entity.Question;
 
 /**
  * 是非题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface AnYesnoManager extends BaseService<AnYesno, String>{

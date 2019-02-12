@@ -26,9 +26,9 @@ import com.opensymphony.xwork2.ActionSupport;
 
 /**
  * 多项填空题 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

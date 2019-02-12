@@ -21,9 +21,9 @@ import com.key.dwsurvey.service.QuestionManager;
 import com.opensymphony.xwork2.ActionSupport;
 /**
  * 分段题 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

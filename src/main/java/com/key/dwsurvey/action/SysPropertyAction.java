@@ -29,9 +29,9 @@ import com.opensymphony.xwork2.ActionSupport;
 
 /**
  * 系统配置
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

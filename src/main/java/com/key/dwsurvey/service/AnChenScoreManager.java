@@ -8,9 +8,9 @@ import com.key.dwsurvey.entity.Question;
 
 /**
  * 矩陈评分题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface AnChenScoreManager extends BaseService<AnChenScore, String>{

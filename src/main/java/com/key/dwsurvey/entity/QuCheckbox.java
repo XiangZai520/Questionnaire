@@ -12,7 +12,7 @@ import com.key.common.base.entity.IdEntity;
  * 多选题 选项表
  * @author keyuan
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Entity

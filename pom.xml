@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>diaowen Maven Webapp</name>
-  <url>https://github.com/wkeyuan/DWSurvey</url>
+  <url> </url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

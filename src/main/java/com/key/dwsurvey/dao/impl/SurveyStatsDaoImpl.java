@@ -10,9 +10,9 @@ import com.key.dwsurvey.entity.Question;
 
 /**
  * 问卷统计 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

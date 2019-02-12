@@ -8,9 +8,9 @@ import com.key.dwsurvey.entity.QuChenRow;
 
 /**
  * 矩陈行 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

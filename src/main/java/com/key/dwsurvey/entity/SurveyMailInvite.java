@@ -9,7 +9,7 @@ import com.key.common.base.entity.IdEntity;
 
 /**
  *  邮件服务
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Entity

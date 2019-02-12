@@ -2,10 +2,10 @@ package com.key.common;
 
 /**
  * quType
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
- * http://www.dwsurvey.net
+ *
+ *  www.baidu.com
  *
  */
 

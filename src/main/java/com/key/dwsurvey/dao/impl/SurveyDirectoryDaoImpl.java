@@ -8,9 +8,9 @@ import com.key.dwsurvey.entity.SurveyDirectory;
 
 /**
  * 问卷目录 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

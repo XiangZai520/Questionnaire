@@ -7,9 +7,9 @@ import com.key.dwsurvey.entity.QuChenColumn;
 
 /**
  * 矩陈题列
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface QuChenColumnManager extends BaseService<QuChenColumn, String> {

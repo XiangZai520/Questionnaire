@@ -20,9 +20,9 @@ import com.opensymphony.xwork2.ActionSupport;
 
 /**
  * 分析报告 action
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */

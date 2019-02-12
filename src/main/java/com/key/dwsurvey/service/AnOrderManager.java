@@ -8,9 +8,9 @@ import com.key.dwsurvey.entity.AnOrder;
 
 /**
  * 排序题
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface AnOrderManager extends BaseService<AnOrder, String>{

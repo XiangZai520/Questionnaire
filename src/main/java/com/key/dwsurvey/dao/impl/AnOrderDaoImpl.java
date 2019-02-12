@@ -13,9 +13,9 @@ import com.key.common.dao.BaseDaoImpl;
 
 /**
  * 排序题 dao
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 

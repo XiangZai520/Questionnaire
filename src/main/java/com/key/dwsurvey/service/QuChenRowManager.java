@@ -7,9 +7,9 @@ import com.key.dwsurvey.entity.QuChenRow;
 
 /**
  * 矩陈题行
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 public interface QuChenRowManager extends BaseService<QuChenRow, String>{

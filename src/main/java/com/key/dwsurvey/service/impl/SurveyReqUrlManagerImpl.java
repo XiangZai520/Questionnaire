@@ -12,9 +12,9 @@ import com.key.common.utils.RandomUtils;
 
 /**
  * 短链地址
- * @author keyuan(keyuan258@gmail.com)
+ * yipinhong
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  */
 @Service

@@ -2577,7 +2577,7 @@
 <div style="text-align: center;">
 <div class="dw_foot" style="padding-bottom: 30px;">
 	<div class="footer-copyright" style="color: gray;padding-top: 0px;font-size: 16px;">
-		Powered by <a href="http://www.dwsurvey.net" target="_blank" style="text-decoration: none;color: gray;">questionnaire</a>&nbsp;&nbsp;&nbsp;
+		Powered by <a href=" www.baidu.com" target="_blank" style="text-decoration: none;color: gray;">questionnaire</a>&nbsp;&nbsp;&nbsp;
 		Copyright © 2018-2019
 	</div>
 </div>

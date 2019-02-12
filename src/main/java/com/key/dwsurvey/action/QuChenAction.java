@@ -24,10 +24,10 @@ import java.util.Map;
 
 /**
  * 矩阵单选，矩阵多选，矩阵填空
- * @author KeYuan(keyuan258@gmail.com)
+ * yipinhong
  * @date 2014下午10:11:53
  *
- * https://github.com/wkeyuan/DWSurvey
+ *
  * http://dwsurvey.net
  *
  */
